@@ -1,0 +1,6 @@
+{
+  "name": "ระบบติดตามงานโครงการ",
+  "description": "ระบบติดตามสถานะงานโครงการ กำหนดงวดงานสัญญา จัดการหมวดหมู่งาน แต่งตั้ง PM / Co-PM ดาวน์โหลดเอกสารและแนบภาพถ่ายหน้างานแบบเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
